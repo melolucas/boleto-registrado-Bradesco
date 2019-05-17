@@ -1,4 +1,4 @@
-##Aplicação que Boleto Registrado do banco Bradesco
+## Aplicação que Boleto Registrado do banco Bradesco
 
 Eu montei esse pequeno script com o intuído de ajudar aqueles que com eu, acham a documentação do banco uma porcaria.<br>
 Recentemente tive que demanda de boleto registrado, e para minha frustação a documentação não me ajudou muito para assinar a requisição no padrão PKCS#7<br><br>

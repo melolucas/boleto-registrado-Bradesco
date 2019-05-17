@@ -25,3 +25,14 @@ openssl_pkcs7_sign(
 
 <br>
 Ressalvo que isso e somente um exemplo simples com o intuito de ajudar aqueles que estão com problemas similares.
+
+
+
+<br>
+O certificado usado é um certificado de teste , podendo ser utilizando para teste incial, lembrando que o mesmo não sera processado no banco, retornando a mensagem
+<br>
+```html
+Erro Certificado / Formatacao dos campos da mensagem invalida [0x00d30003] (810)
+```
+<br>
+Mas pode ficar tranquilo, essa mensagem e o retorno do Bradesco, ou seja sua aplicação chegou corretamente no banco e foi descriptografada corretamente.

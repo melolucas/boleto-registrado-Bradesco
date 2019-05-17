@@ -30,7 +30,8 @@ Ressalvo que isso e somente um exemplo simples com o intuito de ajudar aqueles q
 
 <br>
 O certificado usado é um certificado de teste , podendo ser utilizando para teste incial, lembrando que o mesmo não sera processado no banco, retornando a mensagem
-<br>
+
+
 ```php
 
 Erro Certificado / Formatacao dos campos da mensagem invalida [0x00d30003] (810)
